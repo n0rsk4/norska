@@ -43,7 +43,7 @@
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
   
 <p align="center">
-$\color{#626FFF}{\textsf{{doubles}}$ $\color{#FF8968}{\textsf{dni!}}$ $\color{#626FFF}{\textsf{i will walk away or wont int}}$<br>
+$\color{#626FFF}{\textsf{doubles}}$ $\color{#FF8968}{\textsf{dni!}}$ 
 $\color{#FF8968}{\textsf{(dont take it personal, its a boundary thing)}}$<br>
 ${{\color{#626FFF}\texttt{feel }}}$ $\color{#FF8968}{\textsf{ᵈᵒ}}$ $\color{#626FFF}{\textsf{free to match with me!}}$<br>
 
