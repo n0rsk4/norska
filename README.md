@@ -7,7 +7,7 @@
 
 
 <div align="center">
- $\color{#4f3e70}{\textsf{hi im juno/fronter, we are a minor belele}}$<br>
+$\color{#4f3e70}{\textsf{hi im juno/fronter, we are a minor belele}}$<br>
 $\color{#4f3e70}{\textsf{and i have to great partners}}$<br>
 $\color{#4f3e70}{\textsf{dont be weird to me ty.}}$<br>
 </div>
