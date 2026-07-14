@@ -7,9 +7,9 @@
 
 
 <div align="center">
-$\color{#4f3e70}{\textsf{hi im juno/fronter, we are a minor belele}}$<br>
-$\color{#4f3e70}{\textsf{and i have to great partners}}$<br>
-$\color{#4f3e70}{\textsf{dont be weird to me ty.}}$<br>
+hi im juno/fronter, we are a minor belele
+and i have to great partners
+dont be weird to me ty.
 </div>
 
 
@@ -48,7 +48,7 @@ $\color{#4f3e70}{\textsf{dont be weird to me ty.}}$<br>
 <p align="center">
 $\color{#4f3e70}{\textsf{doubles}}$ $\color{#4f3e70}{\textsf{dni!}}$ 
 $\color{#4f3e70}{\textsf{(dont take it personal, its a boundary thing)}}$<br>
-${{\color{#4f3e70}\texttt{feel }}}$ $\color{#FF8968}{\textsf{ᵈᵒ}}$ $\color{#4f3e70}{\textsf{free to match with me!}}$<br>
+${{\color{#4f3e70}\texttt{feel }}}$ $\color{#4f3e70}{\textsf{do}}$ $\color{#4f3e70}{\textsf{free to match with me!}}$<br>
 
 <p align="center">
 $\color{#4f3e70}{\textsf{feel free to friend/talk to me, i dont bite}}$
